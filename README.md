@@ -7,7 +7,7 @@
 
 ## 📊 О проекте
 - SIR-модель распространения эпидемии (β, γ, R₀)
-- Реальные данные COVID-19 (15 стран, WHO/CDC)
+- Реальные данные COVID-19 (15 стран) — [Kaggle: Corona Virus Report](https://www.kaggle.com/datasets/imdevskp/corona-virus-report)
 - Machine Learning: Random Forest, точность ~85%
 - ИИ-аналитик через OpenRouter API
 - Adversarial Attack симулятор
