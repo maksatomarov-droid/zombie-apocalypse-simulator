@@ -1,2 +1,2 @@
 # zombie-apocalypse-simulator
-SIR эпидемиология , данные COVID-19 данные, ML, Streamlit , AWS
+SIR эпидемиология , данные COVID-19, ML, Streamlit , AWS
